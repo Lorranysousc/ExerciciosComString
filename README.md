@@ -1,5 +1,5 @@
 # ExerciciosComString
- Resolução da Lista de exercicios com String do Python.
+ Resolução da Lista de exercicios com String do Python, comentado.
  
  
  
@@ -15,7 +15,7 @@
  - [ ] 10. Número por extenso
  - [ ] 11. Jogo da Forca
  - [x] 12. Valida e corrige número de telefone
- - [ ] 13. Jogo da palavra embaralhada
+ - [x] 13. Jogo da palavra embaralhada
  - [ ] 14. Leet spek generator
  
  
