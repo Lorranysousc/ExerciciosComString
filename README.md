@@ -7,7 +7,7 @@
  - [x] 02. Nome ao contrário em maiúsculas
  - [x] 03. Nome na vertical
  - [x] 04. Nome na vertical em escada
- - [ ] 05. Nome na vertical em escada invertida
+ - [x] 05. Nome na vertical em escada invertida
  - [x] 06. Data por extenso
  - [x] 07. Conta espaços e vogais
  - [x] 08. Palíndromo
